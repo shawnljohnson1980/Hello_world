@@ -10,3 +10,4 @@ fave1 = "alfredo"
 fave2 = "cheeseburgers"
 
 print("my favorite foods are, " + (fave1), " and " + (fave2) + "!")
+print(f"my favorite foods are {fave1} and {fave2}!")
